@@ -5,6 +5,3 @@ For project setup see OS-dependent installation instructions:
 
     - `<INSTALL.linux.rst>`_
     - `<INSTALL.macos.rst>`_
-    
-    
-Test
